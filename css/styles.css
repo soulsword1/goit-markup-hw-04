@@ -367,6 +367,7 @@ footer .logo-link {
 
 .footer-flex {
   display: flex;
+  align-items: baseline;
 }
 
 .footer-social {
